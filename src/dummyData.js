@@ -55,7 +55,7 @@ export const Users = [
 export const Posts = [
   {
     id: 1,
-    desc: "Love For All, Hatred For None.",
+    desc: "Que es la filosofia? Basicamente es un conjunto de reflexiones sobre la esencia, las propiedades, las causas y los efectos de las cosas naturales, especialmente sobre el hombre y el universo.",
     photo: "assets/post/1.jpeg",
     date: "5 mins ago",
     userId: 1,

@@ -19,13 +19,16 @@ export default function Sidebar() {
       <div className="sidebarWrapper">
         <ul className="sidebarList">
           <li className="sidebarListItem">
-          <span className="sidebarListItemText">For You</span><br/>
+          <span className="sidebarListItemText">Para ti</span><br/>
           </li>
           <li className="sidebarListItem">
-            <span className="sidebarListItemText">Categories</span>
+            <span className="sidebarListItemText">Categorias</span>
+          </li>
+          <li className="sidebarListItem">
+            <span className="sidebarListItemText">Proyectos</span>
           </li>
         </ul>
-        <button className="sidebarButton">Show More</button>
+        {/* <button className="sidebarButton">Show More</button> */}
         <hr className="sidebarHr" />
       </div>
     </div>
